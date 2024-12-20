@@ -1,4 +1,4 @@
-[![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-AI4MolConformation-MD)
+![image](https://github.com/user-attachments/assets/95e9bdfb-7f56-471d-b6c8-37095bd5eae8)![image](https://github.com/user-attachments/assets/bd300ffa-c278-43ff-ae1e-156f6aa0fb8a)[![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-AI4MolConformation-MD)
 
 ## awesome-AI4MolConformation-MD
 List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody, and PPIs) conformations** and **molecular dynamics (force fields)** using **generative artificial intelligence** and **deep learning**
@@ -100,7 +100,23 @@ Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.
 
 * **mdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics** [2024]  
 Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.   
-[	arXiv:2407.14794 (2024)](https://arxiv.org/abs/2407.14794) | [code](https://github.com/compsciencelab/mdCATH)  
+[	arXiv:2407.14794 (2024)](https://arxiv.org/abs/2407.14794) | [code](https://github.com/compsciencelab/mdCATH)
+
+* **ATLAS: protein flexibility description from atomistic molecular dynamics simulations** [2023]  
+Yann Vander Meersche, Gabriel Cretin, Aria Gheeraert, Jean-Christophe Gelly, Tatiana Galochkina.   
+[	Nucleic Acids Research (2023) ](https://academic.oup.com/nar/article/52/D1/D384/7438909)
+
+* **GPCRmd uncovers the dynamics of the 3D-GPCRome** [2020]  
+Ismael Rodríguez-Espigares et al.   
+[	Nature Methods (2020) ](https://www.nature.com/articles/s41592-020-0884-y).
+
+* **MISATO: machine learning dataset of protein–ligand complexes for structure-based drug discovery** [2024]  
+Till Siebenmorgen, Filipe Menezes, Sabrina Benassou, Erinc Merdivan, Kieran Didi, André Santos Dias Mourão, Radosław Kitel, Pietro Liò, Stefan Kesselheim, Marie Piraud, Fabian J. Theis, Michael Sattler & Grzegorz M. Popowicz.   
+[	Nature Computational Science (2024)](https://www.nature.com/articles/s43588-024-00627-2) | [code](https://github.com/t7morgen/misato-dataset)
+
+* **PLAS-20k: Extended Dataset of Protein-Ligand Affinities from MD Simulations for Machine Learning Applications** [2024]  
+Divya B. Korlepara, Vasavi C. S., Rakesh Srivastava, Pradeep Kumar Pal, Saalim H. Raza, Vishal Kumar, Shivam Pandit, Aathira G. Nair, Sanjana Pandey, Shubham Sharma, Shruti Jeurkar, Kavita Thakran, Reena Jaglan, Shivangi Verma, Indhu Ramachandran, Prathit Chatterjee, Divya Nayar , U. Deva Priyakumar.
+[	Scientific Data (2024)](https://www.nature.com/articles/s41597-023-02872-y).
 
 
 
